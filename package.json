@@ -1,0 +1,21 @@
+{
+  "name": "revgen-landing-page",
+  "version": "1.0.0",
+  "description": "RevU GEN - Automated WhatsApp Tool for 5-Star Google Reviews for Clinics",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve -l 3000 .",
+    "start": "npx serve -l 3000 .",
+    "serve": "npx serve -l 3000 .",
+    "build": "echo 'Static site is production ready!'"
+  },
+  "keywords": [
+    "whatsapp",
+    "google-reviews",
+    "clinic",
+    "landing-page",
+    "revugen"
+  ],
+  "author": "RevU GEN",
+  "license": "ISC"
+}

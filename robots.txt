@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rewgenrator.ranupatelwebexpert.in/sitemap.xml
