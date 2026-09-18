@@ -5,9 +5,7 @@
   "main": "index.html",
   "scripts": {
     "dev": "npx serve -l 3000 .",
-    "start": "npx serve -l 3000 .",
-    "serve": "npx serve -l 3000 .",
-    "build": "echo 'Static site is production ready!'"
+    "start": "npx serve -l 3000 ."
   },
   "keywords": [
     "whatsapp",
